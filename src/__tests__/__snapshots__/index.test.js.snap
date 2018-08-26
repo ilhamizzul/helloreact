@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`With Snapshot Testing App shows "Hello world!" 1`] = `
+<div
+  className="Index-root-1"
+>
+  <p
+    className="MuiTypography-root-11 MuiTypography-body1-20 MuiTypography-gutterBottom-28"
+    type="display1"
+  >
+    Codebase Frontend SSR
+  </p>
+  <p
+    className="MuiTypography-root-11 MuiTypography-body1-20 MuiTypography-gutterBottom-28"
+    type="subheading"
+  >
+    Hello World!
+  </p>
+  <button
+    className="MuiButtonBase-root-50 MuiButton-root-35 MuiButton-raised-40 MuiButton-raisedPrimary-42"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="MuiButton-label-36"
+    >
+      Super Secret Password
+    </span>
+    <span
+      className="MuiTouchRipple-root-53"
+    />
+  </button>
+</div>
+`;
